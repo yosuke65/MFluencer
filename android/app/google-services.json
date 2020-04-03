@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530534770098",
+    "firebase_url": "https://mfluencer-finalproj-47a3f.firebaseio.com",
+    "project_id": "mfluencer-finalproj-47a3f",
+    "storage_bucket": "mfluencer-finalproj-47a3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530534770098:android:6a386b7ee4b465444870ab",
+        "android_client_info": {
+          "package_name": "edu.uco.murrehman1.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530534770098-hpacavjijqn46vikgouujfra77v7bd6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqMrQiEwbT2G2ML1km-dXYoqEnI7vEePE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530534770098-hpacavjijqn46vikgouujfra77v7bd6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
